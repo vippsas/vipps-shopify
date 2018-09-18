@@ -3,7 +3,7 @@
 *Please note:* Vipps does **_not_** yet have a solution for Shopify.
 
 We are seeing a lot of interest for Shopify, and we would like to offer a solution. 
-Vipps has open sourve plugins for 
+Vipps has open source plugins for 
 [WooCommerce](https://www.vipps.no/bedrift/vipps-pa-nett/woocommerce) 
 and 
 [Magento](https://www.vipps.no/bedrift/vipps-pa-nett/magento).
