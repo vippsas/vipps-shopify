@@ -26,11 +26,6 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 - After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
-# Installation
-1. Install the app here.
-2. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal, info in the section below).
-3. Then install the payment method, by following the instructions inside the app.
-
 # How to get Vipps account keys from Vipps Developer Portal
 
 1. Sign in to the Vipps Portal at https://portal.vipps.no/ using Bank ID
@@ -38,6 +33,21 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 3. Click on "Show keys" under the API keys column to see “Client ID”, “Client Secret” and “Vipps Subscription Key”
 
 See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/vipps-developer-portal-getting-started.md) with the Vipps Portal, and the Vipps eCommerce [FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md).
+
+# Installation
+
+1. Install the app here: https://vipps-for-shopify.herokuapp.com/shopify/installapp
+2. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal).
+3. Then install the payment method, by following the instructions inside the app.
+
+# How does it look like in Shopify?
+
+Step 1
+![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github1.jpg?raw=true "Step 1.")
+Step 2
+![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github2.jpg?raw=true "Step 2.")
+Payment capture
+![Payment capture](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github3.jpg?raw=true "Payment capture.")
 
 # Frequently asked questions
 
