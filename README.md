@@ -71,6 +71,10 @@ Your API keys are most likely wrong. Double check that all of your keys (also me
 
 Remember that you have your own merchant serial number for your production keys and another merchant serial number from your test keys. This is easy to miss.
 
+**_I get a error saying "Application error" when trying to checkout_**
+
+This is mostly caused by incorrect Gateway password and Gateway username in the Vipps payment method in Shopify settings. Ensure that you have inputed the correct username and password instructed within the Vipps App in Shopify. The username and password are generated and shown there.
+
 # How can I get help if I have any issues?
 For issues with your Vipps for Shopify installation contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
 
