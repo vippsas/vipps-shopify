@@ -56,7 +56,11 @@ Vipps payment method in Shopify settings. Ensure that you have input the
 correct username and password instructed within the Vipps App in Shopify.
 The username and password are generated and shown there.
 
+## Can we use Vipps Express Checkout with Shopify?
+The Shopify module is currently not supporting express checkout. We try to use default plattform features for our official modules and due to some limitations with the plattform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement. 
+
 ## Other frequently asked questions
 
 See:
 [Vipps eCommerce API: Frequently Asked Questions](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md#what-is-the-difference-between-reserve-capture-and-direct-capture)
+
