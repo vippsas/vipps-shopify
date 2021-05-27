@@ -45,7 +45,7 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 Step 1
 ![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github1.jpg?raw=true "Step 1.")
 Step 2
-![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github2.jpg?raw=true "Step 2.")
+![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/VippsForShopify-Github4.jpg?raw=true "Step 2.")
 Payment capture
 ![Payment capture](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github3.jpg?raw=true "Payment capture.")
 
