@@ -40,17 +40,16 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 2. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal).
 3. Then install the payment method, by following the instructions inside the app.
 
-# How does it look like in Shopify?
+# What does it look like in Shopify?
 
-Step 1
+## Step 1
 ![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github1.jpg?raw=true "Step 1.")
-Step 2
+## Step 2
 ![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/VippsForShopify-Github4.jpg?raw=true "Step 2.")
-Payment capture
+## Payment capture
 ![Payment capture](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github3.jpg?raw=true "Payment capture.")
 
-# What does the different order statuses in Shopify actually mean together with Vipps?
-
+# What do the different order statuses mean?
 See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
 
 # How can I get help if I have any issues?
