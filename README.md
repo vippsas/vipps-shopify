@@ -22,7 +22,7 @@ Vipps does not yet have a solution for express checkout in Shopify
 When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer choose Vipps, the customer fills in their contact information and is then asked to enter their phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
 
 # How to get started
-- Sign up to use Vipps på Nett [vipps.no/shopify](https://api.vippsbedrift.no/v1/partial/signup/vippspanett/shopify?utm_source=produktsideShopify&utm_medium=crude&utm_campaign=VippspanettShopify).
+- Sign up to use Vipps på Nett [vipps.no](https://portal.vipps.no/login).
 - After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
