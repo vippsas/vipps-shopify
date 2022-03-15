@@ -6,7 +6,7 @@ See the main GitHub page for Vipps contact information, etc: https://github.com/
 
 # Description
 
-Official Vipps Payment for Shopify. More than 3.6 million Norwegians use Vipps. Give them a fast and familiar shopping experience.
+Official Vipps Payment for Shopify. More than 4.3 million Norwegians use Vipps. Give them a fast and familiar shopping experience.
 
 This is the official Vipps plugin that provides a direct integration with Shopify. Now you can let your customers choose Vipps directly in the checkout.
 
@@ -16,7 +16,7 @@ Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrif
 
 # Vipps Express Checkout
 
-Vipps does not yet have a solution for express checkout in Shopify
+Vipps does not have a solution for express checkout in Shopify.
 
 # Vipps Payment
 When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer choose Vipps, the customer fills in their contact information and is then asked to enter their phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
