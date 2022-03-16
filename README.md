@@ -2,7 +2,7 @@
 
 The Vipps product page is here: https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/
 
-See the main GitHub page for Vipps contact information, etc: https://github.com/vippsas 
+See the main GitHub page for Vipps contact information, etc: https://github.com/vippsas
 
 # Description
 
@@ -15,11 +15,12 @@ You can also do important back office tasks such as capture and refund directly 
 Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/) about the plugin.
 
 # Vipps Express Checkout
-
-Vipps does not have a solution for express checkout in Shopify.
+Vipps does not have a solution for Vipps Express Checkout (Vipps Hurtigkasse) in Shopify.
+This is due to limitations on Shopify's side, and if Shopify makes changes that
+make Vipps Hurtigkasse possible, we will add this functionality.
 
 # Vipps Payment
-When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer choose Vipps, the customer fills in their contact information and is then asked to enter their phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
+When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps, the customer fills in the contact information and is then asked to enter the phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
 
 # How to get started
 - Sign up to use Vipps på Nett [vipps.no](https://portal.vipps.no/login).
