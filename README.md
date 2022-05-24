@@ -1,3 +1,9 @@
+# Important deprication notice!
+
+The current Vipps app for Shopify will stop working from June 30. You will have to install a new Vipps app to be able to support Vipps payments.
+The new app is awaiting approval from Shopify and it is expected to be approved and ready to install before end of life of the existing app.
+It is no longer possible to install the current Vipps app for new merchants. 
+
 # Vipps for Shopify
 
 The Vipps product page is here: https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/
