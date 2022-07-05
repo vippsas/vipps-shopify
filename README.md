@@ -43,18 +43,22 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 
 # Installation
 
-1. Install the app here: https://vipps-for-shopify.herokuapp.com/shopify/installapp
-2. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal).
-3. Then install the payment method, by following the instructions inside the app.
+1. Install the app here: https://apps.shopify.com/vipps?locale=nb
+2. Install the payment method, by following the instructions inside the app.
+3. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal).
 
 # What does it look like in Shopify?
 
 ## Step 1
-![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github1.jpg?raw=true "Step 1.")
+![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify1.png?raw=true "Step 1.")
 ## Step 2
-![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/VippsForShopify-Github4.jpg?raw=true "Step 2.")
-## Payment capture
-![Payment capture](https://github.com/vippsas/vipps-shopify/raw/master/VippsforShopify-Github3.jpg?raw=true "Payment capture.")
+![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify2.png?raw=true "Step 2.")
+## Step 3
+![Step 3](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify3.png?raw=true "Step 3.")
+## Step 4
+![Step 4](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify4.png?raw=true "Step 4.")
+## Step 5
+![Step 5](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify5.png?raw=true "Step 5.")
 
 # What do the different order statuses mean?
 See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
