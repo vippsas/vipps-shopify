@@ -1,8 +1,12 @@
 # Important deprication notice!
 
-The current Vipps app for Shopify will stop working from June 30. You will have to install a new Vipps app to be able to support Vipps payments.
-The new app is awaiting approval from Shopify and it is expected to be approved and ready to install before end of life of the existing app.
-It is no longer possible to install the current Vipps app for new merchants. 
+Shopify has changed their APIs and the previous Vipps app is no longer supported from July 31. You will have to install a new Vipps app to be able to support Vipps payments.
+
+## Important info regarding installing the new payment App. 
+Remember to capture/refund/cancel all existing orders before installing the new app.
+It is also possible to manually capture/refund/cancel in the [Vipps Portal](https://portal.vipps.no).
+
+The new Vipps payment app is available from [https://apps.shopify.com/vipps?locale=nb](https://apps.shopify.com/vipps?locale=nb).
 
 # Vipps for Shopify
 
@@ -43,7 +47,7 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 
 # Installation
 
-1. Install the app here: https://apps.shopify.com/vipps?locale=nb
+1. Install the app here: https://apps.shopify.com/vipps?locale=nb 
 2. Install the payment method, by following the instructions inside the app.
 3. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal).
 
