@@ -37,12 +37,6 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 
 # Installation
 
-1. Install the app here: https://apps.shopify.com/vipps?locale=nb 
-2. Install the payment method, by following the instructions inside the app.
-3. Configure the Vipps app by filling in your API keys (API keys is available in the Vipps Developer Portal).
-
-# What does it look like in Shopify?
-
 ## Step 1
 ![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify1.png?raw=true "Step 1.")
 ## Step 2
