@@ -1,13 +1,3 @@
-# Important deprication notice!
-
-Shopify has changed their APIs and the previous Vipps app is no longer supported from July 31. You will have to install a new Vipps app to be able to support Vipps payments.
-
-## Important info regarding installing the new payment App. 
-Remember to capture/refund/cancel all existing orders before installing the new app.
-It is also possible to manually capture/refund/cancel in the [Vipps Portal](https://portal.vipps.no).
-
-The new Vipps payment app is available from [https://apps.shopify.com/vipps?locale=nb](https://apps.shopify.com/vipps?locale=nb).
-
 # Vipps for Shopify
 
 The Vipps product page is here: https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/
