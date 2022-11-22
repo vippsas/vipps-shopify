@@ -67,6 +67,10 @@ Vipps payment method in Shopify settings. Ensure that you have input the
 correct username and password instructed within the Vipps App in Shopify.
 The username and password are generated and shown there.
 
+### I get `Error 2734583247: Order is not reserved in Vipps`
+
+This is often caused by having "Direct capture" enabled in your Vipps account. Please change to "Reserve capture" and the issue should be resolved. Direct capture is not supported by the Shopify payment gateway.
+
 ### Can we use Vipps Express Checkout with Shopify?
 The Shopify module is currently not supporting express checkout. We try to use default plattform features for our official modules and due to some limitations with the plattform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement. 
 
