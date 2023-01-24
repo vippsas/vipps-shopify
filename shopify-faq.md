@@ -9,6 +9,7 @@
 - [I get a error saying Application error when trying to checkout?](#i-get-a-error-saying-application-error-when-trying-to-checkout)
 - [I get ERRORCODE 5473](#i-get-errorcode-5473)
 - [Can we use Vipps Express Checkout with Shopify?](#can-we-use-vipps-express-checkout-with-shopify)
+- [How can I get the Vipps payment logo in the footer?](#how-can-i-get-the-vipps-payment-logo-in-the-footer)
 
 
 ### In which countries can I use Vipps?
@@ -76,6 +77,15 @@ See:
 
 ### Can we use Vipps Express Checkout with Shopify?
 The Shopify module is currently not supporting express checkout. We try to use default plattform features for our official modules and due to some limitations with the plattform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement. 
+
+### How can I get the Vipps payment logo in the footer?
+Unfortunately the new Payments App API from Shopify does not currently support adding payment method logos in the footer, as previously. To add the Vipps logo in the footer, you'll have to edit the theme files, by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
+
+```liquid
+{% assign enabled_payment_types = 'vipps,payment_2,payment_3' | remove: ' ' | split: ',' %}
+```
+
+
 
 ## Other frequently asked questions
 
