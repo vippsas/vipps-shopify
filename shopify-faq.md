@@ -6,8 +6,6 @@
 - [The orders who comes from Vipps is labeled authorized?](#the-orders-who-comes-from-vipps-is-labeled-authorized-what-does-that-mean)
 - [Customers are getting error messages when they are trying to check out with Vipps?](#customers-are-getting-error-messages-when-they-are-trying-to-check-out-with-vipps)
 - [I do not receive any Vipps orders?](#i-do-not-receive-any-vipps-orders)
-- [I get a error saying Application error when trying to checkout?](#i-get-a-error-saying-application-error-when-trying-to-checkout)
-- [I get ERRORCODE 5473](#i-get-errorcode-5473)
 - [Can we use Vipps Express Checkout with Shopify?](#can-we-use-vipps-express-checkout-with-shopify)
 - [How can I get the Vipps payment logo in the footer?](#how-can-i-get-the-vipps-payment-logo-in-the-footer)
 
@@ -53,20 +51,6 @@ This is easy to miss.
 
 See:
 [Getting the API keys](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-the-api-keys).
-
-### I get a error saying "Application error" when trying to checkout
-
-This is mostly caused by incorrect Gateway password and Gateway username in the
-Vipps payment method in Shopify settings. Ensure that you have input the
-correct username and password instructed within the Vipps App in Shopify.
-The username and password are generated and shown there.
-
-### I get `ERRORCODE 5473`
-
-This is mostly caused by incorrect Gateway password and Gateway username in the
-Vipps payment method in Shopify settings. Ensure that you have input the
-correct username and password instructed within the Vipps App in Shopify.
-The username and password are generated and shown there.
 
 ### I get `Error 2734583247: Order is not reserved in Vipps`
 
