@@ -33,7 +33,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 2. Select the "Utvikler" ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (6 figures)
 3. Click on "Show keys" under the API keys column to see “Client ID”, “Client Secret” and “Vipps Subscription Key”
 
-See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/vipps-developer-portal-getting-started.md) with the Vipps Portal, and the Vipps eCommerce [FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md).
+See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/) with the Vipps Portal, and the Vipps [FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
 
 # Installation
 
@@ -52,10 +52,10 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
 
 # How can I get help if I have any issues?
-For issues with your Vipps for Shopify installation contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
+For issues with your Vipps for Shopify installation, contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
 
 # Shopify FAQ (mainly Vipps for Shopify app)
 See the [Shopify FAQ](https://github.com/vippsas/vipps-shopify/blob/master/shopify-faq.md) we have created for more help with Shopify
 
 # Vipps FAQ
-See the [Vipps eCom API FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md) for more help with Vipps eCommerce.
+See the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/) for more help with Vipps eCommerce.
