@@ -23,7 +23,7 @@ the payment. You can either do this inside each order by clicking the button
 
 According to Norwegian regulations you should not capture a payment until the
 product or service is provided to the customer. For more information,
-please see the The Norwegian Consumer Authority's
+please see the Norwegian Consumer Authority's
 [Guidelines for the standard sales conditions for consumer purchases of goods over the internet](https://www.forbrukertilsynet.no/english/guidelines/guidelines-the-standard-sales-conditions-consumer-purchases-of-goods-the-internet).
 
 ### Customers are getting error messages when they are trying to check out with Vipps.
@@ -37,7 +37,7 @@ keys and another merchant serial number from your test keys.
 This is easy to miss.
 
 See:
-[Getting the API keys](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-the-api-keys).
+[Getting the API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/).
 
 ### I do not receive any Vipps orders?
 
@@ -50,7 +50,7 @@ keys and another merchant serial number from your test keys.
 This is easy to miss.
 
 See:
-[Getting the API keys](https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md#getting-the-api-keys).
+[Getting the API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/).
 
 ### I get `Error 2734583247: Order is not reserved in Vipps`
 
@@ -60,7 +60,7 @@ See:
 [Reserve and capture](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/common-topics/reserve-and-capture).
 
 ### Can we use Vipps Express Checkout with Shopify?
-The Shopify module is currently not supporting express checkout. We try to use default plattform features for our official modules and due to some limitations with the plattform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement. 
+The Shopify module is currently not supporting express checkout. We try to use default platform features for our official modules and due to some limitations with the platform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement. 
 
 ### How can I get the Vipps payment logo in the footer?
 Unfortunately the new Payments App API from Shopify does not currently support adding payment method logos in the footer, as previously. To add the Vipps logo in the footer, you'll have to edit the theme files, by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
@@ -74,5 +74,5 @@ Unfortunately the new Payments App API from Shopify does not currently support a
 ## Other frequently asked questions
 
 See:
-[Vipps eCommerce API: Frequently Asked Questions](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md#what-is-the-difference-between-reserve-capture-and-direct-capture)
+[Vipps API: Frequently Asked Questions](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture)
 
