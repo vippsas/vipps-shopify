@@ -57,7 +57,7 @@ See:
 This is often caused by having "Direct capture" enabled in your Vipps account. Please change to "Reserve capture" and the issue should be resolved. Direct capture is not supported by the Shopify payment gateway.
 
 See: 
-[Reserve and capture](https://vippsas.github.io/vipps-developer-docs/docs/vipps-developers/common-topics/reserve-and-capture).
+[Reserve and capture](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/reserve-and-capture).
 
 ### Can we use Vipps Express Checkout with Shopify?
 The Shopify module is currently not supporting express checkout. We try to use default platform features for our official modules and due to some limitations with the platform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement. 
