@@ -2,7 +2,7 @@
 
 In Shopify, you have two main statuses:
 
-1. Financial status (is the order paid, refunded, cancelled etc?)
+1. Financial status (is the order paid, refunded, cancelled, etc.?)
 2. Fulfillment status (is the order sent, or not?)
 
 **_Financial status_**
@@ -13,11 +13,11 @@ There are multiple types available here, but the most common ones you might see 
 
 With Vipps, this means that the order is reserved, but no money have changed hands yet. The funds are reserved on the customers account, until you capture the order, and the funds will be deducted from the customers account and you will receive it (minus fees).
 
-All orders in authorized state should not be there for too long, because the reservations might expire if you dont capture them, typically within 7-14 days.
+All orders in authorized state should not be there for too long, because the reservations might expire if you don't capture them, typically within 7-14 days.
 
 2. Pending
 
-With Vipps this is a rare status, and often indicate that something is wrong with your account in Vipps. Very often this is related to your Vipps account are set to do "Direct Capture", which is not supported by the Vipps gateway in Shopify. You should double check your account if you get a lot of orders in "Pending" state.
+With Vipps this is a rare status, and often indicate that something is wrong with your account in Vipps. Very often this is related to your Vipps account are set to do "Direct Capture", which is not supported by the Vipps gateway in Shopify. You should double-check your account if you get a lot of orders in "Pending" state.
 
 3. Paid
 
@@ -25,7 +25,7 @@ When a order is successfully captured in Vipps, it will be changed to the "Paid"
 
 4. Refunded / partially refunded
 
-The title tells most of it, but when a order gets the "refunded" status, you have successfully refunded the order in Vipps, either fully or partially. Remember that all orders that is captured, are refunded, not cancelled.
+The title tells most of it, but when an order gets the "refunded" status, you have successfully refunded the order in Vipps, either fully or partially. Remember that all orders that is captured, are refunded, not cancelled.
 
 5. Cancelled
 
@@ -39,4 +39,4 @@ These types are the most common:
 2. Partially fulfilled
 3. Fulfilled
 
-These indicates if you have shipped the order or not. Vipps does not take part in these statuses other than the default mechanisms in Shopify Admin. These can be used as usual, and do not indicate any status of the Vipps payment. Only the Financial status tells the status of the Vipps order.
+These indicate whether you have shipped the order or not. Vipps does not take part in these statuses other than the default mechanisms in Shopify Admin. These can be used as usual, and do not indicate any status of the Vipps payment. Only the Financial status tells the status of the Vipps order.

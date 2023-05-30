@@ -1,8 +1,10 @@
 # Vipps for Shopify
 
-The Vipps product page is here: https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/
+The Vipps product page: [Vipps Checkout for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
-See the main GitHub page for Vipps contact information, etc: https://github.com/vippsas
+To contact Vipps, see the [contact us](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/) page.
+
+This plugin is hosted on [GitHub](https://github.com/vippsas/vipps-shopify).
 
 # Description
 
