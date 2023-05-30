@@ -51,7 +51,7 @@ See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developer
 
 ## What do the different order statuses mean?
 
-See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
+See [Shopify Order statuses with Vipps](shopify-faq.md#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps) for information regarding order statuses.
 
 ## How can I get help if I have any issues?
 
