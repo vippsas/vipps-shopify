@@ -42,19 +42,19 @@ See [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers
 
 Go to *Settings* in your Shopify store, then click *Payments*. Click *Add payment method*.
 
-![Step 1](images/Vipps2Shopify1.png)
+![Step 1](./docs/images/Vipps2Shopify1.png)
 
 ### Step 2
 
 Connect the account.
 
-![Step 2](images/Vipps2Shopify2.png)
+![Step 2](./docs/images/Vipps2Shopify2.png)
 
 ### Step 3
 
 Read the privacy policy and then install the app.
 
-![Step 3](images/Vipps2Shopify3.png)
+![Step 3](./docs/images/Vipps2Shopify3.png)
 
 ### Step 4
 
@@ -62,13 +62,13 @@ Fill in the Vipps API key information.
 You can find your keys, as described in
 [API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/api-keys/).
 
-![Step 4](images/Vipps2Shopify4.png)
+![Step 4](./docs/images/Vipps2Shopify4.png)
 
 ### Step 5
 
 Activate Vipps payment.
 
-![Step 5](images/Vipps2Shopify5.png)
+![Step 5](./docs/images/Vipps2Shopify5.png)
 
 ## What do the different order statuses mean?
 
