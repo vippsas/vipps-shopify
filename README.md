@@ -4,6 +4,13 @@ The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tj
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
 
+<!-- START_COMMENT -->
+
+💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-plugins/shopify/>. 💥
+
+<!-- END_COMMENT -->
+
+
 ## Description
 
 Official Vipps Payment for Shopify. More than 4.3 million Norwegians use Vipps. Give them a fast and familiar shopping experience.
