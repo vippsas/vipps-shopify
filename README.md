@@ -59,7 +59,7 @@ For issues with your Vipps for Shopify installation, contact us via our [support
 
 ## Shopify FAQ (mainly Vipps for Shopify app)
 
-See the [Shopify FAQ](https://github.com/vippsas/vipps-shopify/blob/master/shopify-faq.md) we have created for more help with Shopify
+See the [Shopify FAQ](shopify-faq.md) we have created for more help with Shopify.
 
 ## Vipps FAQ
 
