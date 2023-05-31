@@ -39,15 +39,15 @@ See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developer
 ## Installation
 
 ### Step 1
-![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify1.png?raw=true "Step 1.")
+![Step 1](images/Vipps2Shopify1.png "Step 1.")
 ### Step 2
-![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify2.png?raw=true "Step 2.")
+![Step 2](images/Vipps2Shopify2.png "Step 2.")
 ### Step 3
-![Step 3](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify3.png?raw=true "Step 3.")
+![Step 3](images/Vipps2Shopify3.png "Step 3.")
 ### Step 4
-![Step 4](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify4.png?raw=true "Step 4.")
+![Step 4](images/Vipps2Shopify4.png "Step 4.")
 ### Step 5
-![Step 5](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify5.png?raw=true "Step 5.")
+![Step 5](images/Vipps2Shopify5.png "Step 5.")
 
 ## What do the different order statuses mean?
 
