@@ -30,24 +30,45 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 
 ## How to get Vipps account keys from Vipps Developer Portal
 
-1. Sign in to the Vipps Portal at https://portal.vipps.no/ using Bank ID
-2. Select the "Utvikler" ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (6 figures)
-3. Click on "Show keys" under the API keys column to see “Client ID”, “Client Secret” and “Vipps Subscription Key”
+1. Sign in to the [Vipps Portal](https://portal.vipps.no/) using BankID.
+2. Select the *Utvikler* ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (6 figures).
+3. Click *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
 
-See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/) with the Vipps Portal, and the Vipps [FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
+See [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/) and the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
 
 ## Installation
 
 ### Step 1
-![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify1.png?raw=true "Step 1.")
+
+Go to *Settings* in your Shopify store, then click *Payments*. Click *Add payment method*.
+
+![Step 1](images/Vipps2Shopify1.png)
+
 ### Step 2
-![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify2.png?raw=true "Step 2.")
+
+Connect the account.
+
+![Step 2](images/Vipps2Shopify2.png)
+
 ### Step 3
-![Step 3](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify3.png?raw=true "Step 3.")
+
+Read the privacy policy and then install the app.
+
+![Step 3](images/Vipps2Shopify3.png)
+
 ### Step 4
-![Step 4](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify4.png?raw=true "Step 4.")
+
+Fill in the Vipps API key information.
+You can find your keys, as described in
+[API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/api-keys/).
+
+![Step 4](images/Vipps2Shopify4.png)
+
 ### Step 5
-![Step 5](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify5.png?raw=true "Step 5.")
+
+Activate Vipps payment.
+
+![Step 5](images/Vipps2Shopify5.png)
 
 ## What do the different order statuses mean?
 
