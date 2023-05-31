@@ -76,7 +76,7 @@ Unfortunately the new Payments App API from Shopify does not currently support a
 In Shopify, you have two main statuses:
 
 1. Financial status (is the order paid, refunded, cancelled, etc.?)
-2. Fulfilment status (is the order sent, or not?)
+2. Fulfillment status (is the order sent, or not?)
 
 ### Financial status
 
