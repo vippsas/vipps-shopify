@@ -1,13 +1,23 @@
+<!-- START_METADATA
+---
+title: Vipps for Shopify plugin
+sidebar_position: 1
+pagination_next: null
+pagination_prev: null
+---
+END_METADATA -->
+
 # Vipps for Shopify
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
 
+This module is hosted on [GitHub](https://github.com/vippsas/vipps-shopify).
+
 The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
-
 
 ## Description
 
@@ -20,18 +30,20 @@ You can also do important back office tasks such as capture and refund directly 
 Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/) about the plugin.
 
 ## Vipps Express Checkout
+
 Vipps does not have a solution for Vipps Express Checkout (Vipps Hurtigkasse) in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
 make Vipps Hurtigkasse possible, we will add this functionality.
 
 ## Vipps Payment
+
 When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps, the customer fills in the contact information and is then asked to enter the phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
 
 ## How to get started
 
-- Sign up to use Vipps på Nett [vipps.no](https://portal.vipps.no/login).
-- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
-- Download and configure
+- Sign up to use [*Vipps på Nett*](https://portal.vipps.no/login).
+- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials.
+- Download and configure.
 
 ## How to get Vipps account keys from Vipps Developer Portal
 

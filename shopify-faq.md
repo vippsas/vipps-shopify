@@ -1,5 +1,14 @@
+<!-- START_METADATA
+---
+title: Vipps for Shopify Plugin FAQ
+pagination_next: null
+pagination_prev: null
+---
+END_METADATA -->
+
 # Frequently asked questions
 
+<!-- START_COMMENT -->
 ## Table of contents
 
 - [In which countries can I use Vipps?](#in-which-countries-can-i-use-vipps)
@@ -9,6 +18,7 @@
 - [Can we use Vipps Express Checkout with Shopify?](#can-we-use-vipps-express-checkout-with-shopify)
 - [How can I get the Vipps payment logo in the footer?](#how-can-i-get-the-vipps-payment-logo-in-the-footer)
 - [What do the different order statuses in Shopify mean when combined with Vipps](#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps)
+<!-- END_COMMENT -->
 
 ## In which countries can I use Vipps?
 
@@ -19,7 +29,7 @@ You can only get paid by users who have Vipps. At the moment, Vipps is only avai
 The order's status is *reserved* in Vipps. The amount is only reserved and not
 captured from the customers account. When the order is completed, you can capture
 the payment. You can either do this inside each order by clicking the button
-*capture*, or by marking more orders and choose the *actions* dropdown, and then click *capture payments*.
+*capture*, or by marking more orders and choose the *Actions* dropdown, and then click *Capture payments*.
 
 According to Norwegian regulations you should not capture a payment until the
 product or service is provided to the customer. For more information,
@@ -108,12 +118,11 @@ Orders that are not captured yet, will be cancelled if you choose to cancel them
 
 These types are the most common:
 
-1. Unfulfilled
-2. Partially fulfilled
-3. Fulfilled
+1. `Unfulfilled`
+2. `Partially fulfilled`
+3. `Fulfilled`
 
 These indicate whether you have shipped the order or not. Vipps does not take part in these statuses other than the default mechanisms in Shopify Admin. These can be used as usual, and do not indicate any status of the Vipps payment. Only the Financial status tells the status of the Vipps order.
-
 
 ## Other frequently asked questions
 
