@@ -13,8 +13,6 @@ END_METADATA -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
 
-The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
-
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
 
 ## Description
@@ -25,7 +23,7 @@ This is the official Vipps plugin that provides a direct integration with Shopif
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/) about the plugin.
+The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
 ## Vipps Express Checkout
 
@@ -46,7 +44,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 ## How to get Vipps account keys from Vipps Developer Portal
 
 1. Sign in to the [Vipps Portal](https://portal.vipps.no/) using BankID.
-2. Select the *Utvikler* ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (6 figures).
+2. Select the *Utvikler* ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (six digits).
 3. Click *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
 
 See [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/) and the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
