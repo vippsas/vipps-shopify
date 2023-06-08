@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Vipps for Shopify plugin
+title: Vipps for Shopify
 sidebar_position: 1
 pagination_next: null
 pagination_prev: null
@@ -12,8 +12,6 @@ END_METADATA -->
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
-
-This module is hosted on [GitHub](https://github.com/vippsas/vipps-shopify).
 
 The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
