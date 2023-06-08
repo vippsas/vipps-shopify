@@ -51,35 +51,30 @@ See [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers
 
 ## Installation
 
-### Step 1
+### Step 1 - Add the payment method
 
 Go to *Settings* in your Shopify store, then click *Payments*. Click *Add payment method*.
 
 ![Step 1](./docs/images/Vipps2Shopify1.png)
 
-### Step 2
-
-Connect the account.
+### Step 2 - Connect the account
 
 ![Step 2](./docs/images/Vipps2Shopify2.png)
 
-### Step 3
+### Step 3 - Install the app
 
 Read the privacy policy and then install the app.
 
 ![Step 3](./docs/images/Vipps2Shopify3.png)
 
-### Step 4
+### Step 4 - Fill in the Vipps API key information
 
-Fill in the Vipps API key information.
 You can find your keys, as described in
 [API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/api-keys/).
 
 ![Step 4](./docs/images/Vipps2Shopify4.png)
 
-### Step 5
-
-Activate Vipps payment.
+### Step 5 - Activate Vipps payment
 
 ![Step 5](./docs/images/Vipps2Shopify5.png)
 
@@ -89,12 +84,9 @@ See [Shopify Order statuses with Vipps](shopify-faq.md#what-do-the-different-ord
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Shopify installation, contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
+For issues with your Vipps for Shopify installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
 
-## Shopify FAQ (mainly Vipps for Shopify app)
+## FAQ
 
-See the [Shopify FAQ](shopify-faq.md) we have created for more help with Shopify.
-
-## Vipps FAQ
-
-See the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/) for more help with Vipps.
+* [Shopify FAQ](shopify-faq.md)
+* [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/)
