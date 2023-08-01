@@ -47,7 +47,7 @@ keys and another merchant serial number from your test keys.
 This is easy to miss.
 
 See:
-[Getting the API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/).
+[Getting the API keys](https://developer.vippsmobilepay.com/docs/).
 
 ## I do not receive any Vipps orders?
 
@@ -60,14 +60,14 @@ keys and another merchant serial number from your test keys.
 This is easy to miss.
 
 See:
-[Getting the API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/).
+[Getting the API keys](https://developer.vippsmobilepay.com/docs/).
 
 ## I get `Error 2734583247: Order is not reserved in Vipps`
 
 This is often caused by having "Direct capture" enabled in your Vipps account. Please change to "Reserve capture" and the issue should be resolved. Direct capture is not supported by the Shopify payment gateway.
 
 See:
-[Reserve and capture](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/reserve-and-capture).
+[Reserve and capture](https://developer.vippsmobilepay.com/docs/common-topics/reserve-and-capture).
 
 ## Can we use Vipps Express Checkout with Shopify?
 
@@ -127,4 +127,4 @@ These indicate whether you have shipped the order or not. Vipps does not take pa
 ## Other frequently asked questions
 
 See:
-[Vipps API: Frequently Asked Questions](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture)
+[Vipps API: Frequently Asked Questions](https://developer.vippsmobilepay.com/docs/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture)
