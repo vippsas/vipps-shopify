@@ -12,7 +12,7 @@ END_METADATA -->
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
 <!-- START_COMMENT -->
-💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
+💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins/). 💥
 <!-- END_COMMENT -->
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
