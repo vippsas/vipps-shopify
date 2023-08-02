@@ -12,7 +12,7 @@ END_METADATA -->
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
 <!-- START_COMMENT -->
-💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
+💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins/). 💥
 <!-- END_COMMENT -->
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
@@ -49,7 +49,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 2. Select the *Utvikler* ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (six digits).
 3. Click *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
 
-See [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/) and the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
+See [Getting Started](https://developer.vippsmobilepay.com/docs/) and the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/faqs/).
 
 ## Installation
 
@@ -72,7 +72,7 @@ Read the privacy policy and then install the app.
 ### Step 4 - Fill in the Vipps API key information
 
 You can find your keys, as described in
-[API keys](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/api-keys/).
+[API keys](https://developer.vippsmobilepay.com/docs/common-topics/api-keys/).
 
 ![Step 4](./docs/images/Vipps2Shopify4.png)
 
@@ -86,9 +86,9 @@ See [Shopify Order statuses with Vipps](shopify-faq.md#what-do-the-different-ord
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Shopify installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
+For issues with your Vipps for Shopify installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/contact/).
 
 ## FAQ
 
 * [Shopify FAQ](shopify-faq.md)
-* [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/)
+* [Vipps FAQ](https://developer.vippsmobilepay.com/docs/faqs/)
