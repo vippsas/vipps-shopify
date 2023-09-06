@@ -9,7 +9,7 @@ END_METADATA -->
 
 # Vipps for Shopify
 
-*This plugin is built and maintained by [Crude](https://crude.no/).*
+[![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)](https://crude.no/)
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins/). 💥
