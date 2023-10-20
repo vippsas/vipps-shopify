@@ -11,10 +11,14 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
+![Vipps](./docs/images/vipps.png) *Available for Vipps.*
+
+![MobilePay](./docs/images/mp.png) *Will be available for use of Checkout for MobilePay in Finland and Denmark in Q1 2024.*
+
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
 <!-- START_COMMENT -->
-💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins/). 💥
+💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/). 💥
 <!-- END_COMMENT -->
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
