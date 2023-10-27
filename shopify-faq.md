@@ -127,4 +127,4 @@ These indicate whether you have shipped the order or not. Vipps does not take pa
 ## Other frequently asked questions
 
 See:
-[Vipps API: Frequently Asked Questions](https://developer.vippsmobilepay.com/docs/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture)
+[Vipps API Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics/reserve-and-capture/#what-is-the-difference-between-reserve-capture-and-direct-capture)

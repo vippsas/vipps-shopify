@@ -55,7 +55,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 2. Select the *Utvikler* ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (six digits).
 3. Click *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
 
-See [Getting Started](https://developer.vippsmobilepay.com/docs/) and the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/faqs/).
+See [Getting Started](https://developer.vippsmobilepay.com/docs/) and the [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics/).
 
 ## Installation
 
@@ -97,4 +97,4 @@ For issues with your Vipps for Shopify installation, [contact us](https://vipps-
 ## FAQ
 
 * [Shopify FAQ](shopify-faq.md)
-* [Vipps FAQ](https://developer.vippsmobilepay.com/docs/faqs/)
+* [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics)
