@@ -45,17 +45,22 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 
 ## How to get started
 
-- Sign up to use [*Vipps på Nett*](https://portal.vipps.no/login).
-- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials.
+- Sign up to use [*Vipps på Nett*](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/).
+- After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
-## How to get Vipps account keys from Vipps Developer Portal
+See:
 
-1. Sign in to the [Vipps Portal](https://portal.vipps.no/) using BankID.
-2. Select the *Utvikler* ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (six digits).
-3. Click *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
+- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in)
+- [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
 
-See [Getting Started](https://developer.vippsmobilepay.com/docs/) and the [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/).
+## How to get account keys from the merchant portal
+
+1. Sign in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
+2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
+3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
+
+See [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
 
 ## Installation
 
