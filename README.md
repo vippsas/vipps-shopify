@@ -31,13 +31,11 @@ This is the official Vipps plugin that provides a direct integration with Shopif
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
+## Express Checkout
 
-## Vipps Express Checkout
-
-Vipps does not have a solution for Vipps Express Checkout (Vipps Hurtigkasse) in Shopify.
+Vipps does not have a solution for Express Checkout in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
-make Vipps Hurtigkasse possible, we will add this functionality.
+make Express Checkout possible, we will add this functionality.
 
 ## Vipps Payment
 
@@ -45,14 +43,11 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 
 ## How to get started
 
-- Sign up to use [*Vipps på Nett*](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/).
-- After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
+- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration).
+- After 1-2 days, you will get an email with login details to the Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
-See:
-
-- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in)
-- [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
+For more details, see [Applying for services](https://developer.vippsmobilepay.com/docs/knowledge-base/applying-for-services/).
 
 ## How to get account keys from the merchant portal
 
