@@ -31,13 +31,11 @@ This is the official Vipps plugin that provides a direct integration with Shopif
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
+## Express Checkout
 
-## Vipps Express Checkout
-
-Vipps does not have a solution for Vipps Express Checkout (Vipps Hurtigkasse) in Shopify.
+Vipps does not have a solution for Express Checkout in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
-make Vipps Hurtigkasse possible, we will add this functionality.
+make Express Checkout possible, we will add this functionality.
 
 ## Vipps Payment
 
