@@ -1,6 +1,7 @@
 <!-- START_METADATA
 ---
 title: Vipps for Shopify Plugin FAQ
+description: Frequently asked questions for the Shopify plugin.
 pagination_next: null
 pagination_prev: null
 ---
