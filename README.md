@@ -14,7 +14,7 @@ END_METADATA -->
 
 ![Vipps](./docs/images/vipps.png) *Available for Vipps.*
 
-![MobilePay](./docs/images/mp.png) *Will be available for use of Checkout for MobilePay in Finland and Denmark in Q1 2024.*
+For a MobilePay payment plugin, please refer to [Vipps/MobilePay Checkout for Spotify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/).
 
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
