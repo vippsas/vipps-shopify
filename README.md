@@ -1,18 +1,19 @@
 <!-- START_METADATA
 ---
-title: Vipps for Shopify
+title: Vipps/MobilePay Payments for Shopify
 sidebar_position: 1
-description: Provide Vipps payments for Shopify.
+description: Provide Vipps/MobilePay payments for Shopify.
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps for Shopify
+# Vipps/MobilePay payments for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
 ![Vipps](./docs/images/vipps.png) *Available for Vipps.*
+![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark.*
 
 For a MobilePay payment plugin, please refer to [Vipps/MobilePay Checkout for Spotify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/).
 
@@ -26,21 +27,24 @@ The plugin is available from the [Shopify app store](https://apps.shopify.com/vi
 
 ## Description
 
-Official Vipps Payment for Shopify. More than 4.3 million Norwegians use Vipps. Give them a fast and familiar shopping experience.
+Official Vipps/MobilePay Payment for Shopify. Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400.000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
 
-This is the official Vipps plugin that provides a direct integration with Shopify. Now you can let your customers choose Vipps directly in the checkout.
+Increase your conversion rate by letting your customers pay with a fast, secure and convenient payment method. Vipps MobilePay allows users to make quick and easy payments using their mobile phone, without the need for entering credit card details or other sensitive information.
+
+You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
+This is the official Vipps plugin that provides a direct integration with Shopify. Now you can let your customers choose Vipps/MobilePay directly in the checkout.
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
 ## Express Checkout
 
-Vipps does not have a solution for Express Checkout in Shopify.
+Vipps MobilePay does not have a solution for Express Checkout in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
 make Express Checkout possible, we will add this functionality.
 
-## Vipps Payment
+## Vipps/MobilePay Payment
 
-When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps, the customer fills in the contact information and is then asked to enter the phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
+When you enable this plugin, your customers will be able to choose Vipps or MobilePay as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps or MobilePay, the customer fills in the contact information and is then asked to enter the phone number in the Vipps/MobilePay dialogue. Then the customer confirms the payment in the Vipps/MobilePay app. The order is now completed and are now stored in your Shopify store.
 
 ## How to get started
 
