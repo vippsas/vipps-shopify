@@ -13,9 +13,8 @@ END_METADATA -->
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
 ![Vipps](./docs/images/vipps.png) *Available for Vipps.*
-![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark.*
 
-For a MobilePay payment plugin, please refer to [Vipps/MobilePay Checkout for Spotify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/).
+![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
