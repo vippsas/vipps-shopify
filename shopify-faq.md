@@ -25,6 +25,34 @@ END_METADATA -->
 
 You can get paid by users who have Vipps in Norway, or who have MobilePay in Denmark or Finland.
 
+
+## How can I get the Vipps or MobilePay payment logo in the footer?
+
+Because of a limitation with Shopify's Payments App API, which doesn't currently support adding payment method logos in the footer,
+you need the [Vipps/MobilePay Shopify Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/) to add the logos and icons.
+
+This also lets you add more payment information into the app.
+
+The companion app can be used in combination with both the
+[Checkout app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/)
+or [Payment app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/).
+
+
+<details>
+<summary>Deprecated method</summary>
+<div>
+Alternatively, to add the Vipps or MobilePay logo in the footer, you'll can the theme files by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
+
+```liquid
+{% assign enabled_payment_types = 'vipps,payment_2,payment_3' | remove: ' ' | split: ',' %}
+```
+</div>
+</details>
+
+
+
+
+
 ## The order that comes from Vipps MobilePay is labelled authorized, what does that mean?
 
 The order's status is *reserved* in Vipps. The amount is only reserved and not
@@ -74,15 +102,6 @@ See:
 
 The Shopify module is currently not supporting express checkout. We try to use default platform features for our official modules and due to some limitations with the platform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement.
 
-## How can I get the Vipps or MobilePay payment logo in the footer?
-
-To add the Vipps or MobilePay logo in the footer, you'll have to edit the theme files by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
-
-```liquid
-{% assign enabled_payment_types = 'vipps,payment_2,payment_3' | remove: ' ' | split: ',' %}
-```
-
-This is because of a limitation with Shopify's Payments App API which doesn't currently support adding payment method logos in the footer.
 
 ## What do the different order statuses in Shopify mean when combined with Vipps MobilePay?
 
