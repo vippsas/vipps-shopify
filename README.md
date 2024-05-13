@@ -12,9 +12,7 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps](./docs/images/vipps.png) *Available for Vipps.*
-
-![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark.*
+![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
@@ -101,4 +99,4 @@ For issues with your Vipps for Shopify installation, [contact us](https://vipps-
 ## FAQ
 
 * [Shopify FAQ](shopify-faq.md)
-* [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
+* [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
