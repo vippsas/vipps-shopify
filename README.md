@@ -22,6 +22,8 @@ END_METADATA -->
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
 
+To add branding and order information, install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+
 ## Description
 
 Official Vipps/MobilePay Payment for Shopify. Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
