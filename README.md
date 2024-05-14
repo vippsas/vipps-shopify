@@ -12,9 +12,7 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps](./docs/images/vipps.png) *Available for Vipps.*
-
-![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark.*
+![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
@@ -24,9 +22,11 @@ END_METADATA -->
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
 
+To add branding and order information, install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+
 ## Description
 
-Official Vipps/MobilePay Payment for Shopify. Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400.000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
+Official Vipps/MobilePay Payment for Shopify. Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
 
 Increase your conversion rate by letting your customers pay with a fast, secure and convenient payment method. Vipps MobilePay allows users to make quick and easy payments using their mobile phone, without the need for entering credit card details or other sensitive information.
 
@@ -79,7 +79,7 @@ Read the privacy policy and then install the app.
 
 ![Step 3](./docs/images/Vipps2Shopify3.png)
 
-### Step 4 - Fill in the Vipps API key information
+### Step 4 - Fill in the API key information
 
 You can find your keys, as described in
 [API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys/).
@@ -90,15 +90,21 @@ You can find your keys, as described in
 
 ![Step 5](./docs/images/Vipps2Shopify5.png)
 
+
+## Add branding to your store
+
+To add Vipps or MobilePay logos and icons to your store, get the [Vipps/MobilePay Shopify Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+
 ## What do the different order statuses mean?
 
-See [Shopify Order statuses with Vipps](shopify-faq.md#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps) for information regarding order statuses.
+See [Shopify Order statuses with Vipps MobilePay](shopify-faq.md#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps-mobilepay) for information regarding order statuses.
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Shopify installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/contact/).
+For issues with your *Vipps/MobilePay for Shopify* installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, contact [VippsMobilePay.com: Get help](https://vippsmobilepay.com/help).
+
 
 ## FAQ
 
 * [Shopify FAQ](shopify-faq.md)
-* [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
+* [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
