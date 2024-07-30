@@ -59,7 +59,7 @@ For more details, see [Applying for services](https://developer.vippsmobilepay.c
 2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
 
-See [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
+See [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys).
 
 ## Installation
 
