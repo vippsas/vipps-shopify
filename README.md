@@ -33,8 +33,6 @@ Increase your conversion rate by letting your customers pay with a fast, secure 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 This is the official Vipps plugin that provides a direct integration with Shopify. Now you can let your customers choose Vipps/MobilePay directly in the checkout.
 
-You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
-
 ## Express Checkout
 
 Vipps MobilePay does not have a solution for Express Checkout in Shopify.
