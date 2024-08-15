@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Vipps/MobilePay Payments for Shopify
+title: Payments for Shopify
 sidebar_position: 1
 description: Provide Vipps/MobilePay payments for Shopify.
 pagination_next: null
@@ -8,7 +8,7 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps/MobilePay payments for Shopify
+# Payments for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
