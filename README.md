@@ -14,7 +14,8 @@ END_METADATA -->
 
 ![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
 
-*This plugin is built and maintained by [Crude](https://crude.no/).*
+*This plugin is built and maintained by [Crude](https://crude.no/).
+For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/). 💥
@@ -99,10 +100,16 @@ See [Shopify Order statuses with Vipps MobilePay](shopify-faq.md#what-do-the-dif
 
 ## How can I get help if I have any issues?
 
-For issues with your *Vipps/MobilePay for Shopify* installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, contact [VippsMobilePay.com: Get help](https://vippsmobilepay.com/info/help).
+For issues with your *Vipps/MobilePay for Shopify* installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).
+
+For business-related issues, such as a deactivated sales unit, contact [Vipps MobilePay business support](https://vippsmobilepay.com/info/help).
 
 
 ## FAQ
 
 * [Shopify FAQ](shopify-faq.md)
 * [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
+
+## Support
+
+For issues with the plugin, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).
