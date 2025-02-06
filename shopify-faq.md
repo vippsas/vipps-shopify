@@ -42,13 +42,9 @@ When a payment is completed with Vipps MobilePay, the money will be reserved, bu
 ## How can I get the Vipps or MobilePay payment logo in the footer?
 
 Because of a limitation with Shopify's Payments App API, which doesn't currently support adding payment method logos in the footer,
-you need the [Vipps/MobilePay Shopify Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/) to add the logos and icons.
+you need the [Companion app](companion.md) to add the logos and icons.
 
 This also lets you add more payment information into the app.
-
-The companion app can be used in combination with both the
-[Checkout app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/)
-or [Payment app for Shopify](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/).
 
 
 <details>

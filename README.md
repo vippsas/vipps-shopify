@@ -19,9 +19,9 @@ For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/). 💥
 <!-- END_COMMENT -->
 
-The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale=nb).
+The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale).
 
-To add branding and order information, install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+To add branding and order information, install the [Companion plugin](companion.md).
 
 ## Description
 
@@ -90,7 +90,7 @@ You can find your keys, as described in
 
 ## Add branding to your store
 
-To add Vipps or MobilePay logos and icons to your store, get the [Vipps/MobilePay Shopify Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+To add Vipps or MobilePay logos and icons to your store, get the [Companion app](companion.md).
 
 ## What do the different order statuses mean?
 
