@@ -21,7 +21,7 @@ For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale).
 
-To add branding and order information, install the [Companion plugin](companion.md).
+To add branding and order information, install the [Companion app](companion.md).
 
 ## Description
 
