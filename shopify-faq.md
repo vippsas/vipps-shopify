@@ -33,10 +33,10 @@ payments in Norway have 180 days.
 If the payments aren't captured within this time, they will be automatically cancelled.
 
 Payments can only be captured up to 14 days (MobilePay) or 180 days (Vipps) after reservation.
-See [Reserve and capture](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/).
+See [Payment capture deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#payment-capture-deadlines).
 :::
 
-When a payment is completed with Vipps MobilePay, the money will be reserved, but only transferred to the merchant when the order is set to “Complete” or the money is captured manually. For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this; or to make an agreement with the customer to capture the money before this period is over. For Vipps, the period is 180 days. For payments made by credit card in Vipps/MobilePay Checkout, the period can again be as short as 7 days.
+When a payment is completed with Vipps MobilePay, the money will be reserved, but only transferred to the merchant when the order is set to “Complete” or the money is captured manually. For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this; or to make an agreement with the customer to capture the money before this period is over. For Vipps, the period is 180 days. For payments made by credit card, the period can again be as short as 7 days.
 
 
 ## How can I get the Vipps or MobilePay payment logo in the footer?
@@ -109,7 +109,7 @@ See:
 
 ## Can we use Express Checkout with Shopify?
 
-The Shopify module is currently not supporting express checkout. We try to use default platform features for our official modules and due to some limitations with the platform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement.
+The Shopify module does not currently support express checkout. We try to use default platform features for our official modules and due to some limitations with the platform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement.
 
 
 ## What do the different order statuses in Shopify mean when combined with Vipps MobilePay?

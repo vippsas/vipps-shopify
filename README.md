@@ -19,46 +19,53 @@ For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/). 💥
 <!-- END_COMMENT -->
 
-The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps?locale).
+Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
+
+Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps?locale).
 
 To add branding and order information, install the [Companion app](companion.md).
 
 ## Description
 
-Official Vipps/MobilePay Payment for Shopify. Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
+This is the official *Vipps/MobilePay Payment* plugin for Shopify. Let your customers choose Vipps/MobilePay directly in the checkout.
+
+Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
 
 Increase your conversion rate by letting your customers pay with a fast, secure and convenient payment method. Vipps MobilePay allows users to make quick and easy payments using their mobile phone, without the need for entering credit card details or other sensitive information.
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
-This is the official Vipps plugin that provides a direct integration with Shopify. Now you can let your customers choose Vipps/MobilePay directly in the checkout.
 
-## Express Checkout
+## Payment
 
-Vipps MobilePay does not have a solution for Express Checkout in Shopify.
+When you enable this plugin, your customers will be able to choose Vipps or MobilePay as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps or MobilePay, the customer fills in the contact information and is then asked to enter the phone number in the Vipps/MobilePay app. Then the customer confirms the payment in the Vipps/MobilePay app. The order is now completed and are now stored in your Shopify store.
+
+**Please note:** We do not have a solution for *Express Checkout* in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
-make Express Checkout possible, we will add this functionality.
-
-## Vipps/MobilePay Payment
-
-When you enable this plugin, your customers will be able to choose Vipps or MobilePay as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps or MobilePay, the customer fills in the contact information and is then asked to enter the phone number in the Vipps/MobilePay dialogue. Then the customer confirms the payment in the Vipps/MobilePay app. The order is now completed and are now stored in your Shopify store.
+make *Express Checkout* possible, we will add this functionality.
 
 ## How to get started
 
-- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration).
+- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration) or [*Checkout*](https://vippsmobilepay.com/online/checkout).
 - After 1-2 days, you will get an email with login details to the Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
-For more details, see [Applying for services](https://developer.vippsmobilepay.com/docs/knowledge-base/applying-for-services/).
+For more details, see [Getting started](https://developer.vippsmobilepay.com/docs/getting-started/).
 
 ## How to get account keys from the merchant portal
 
 1. Sign in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
 2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
-3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
+3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Ocp-Apim-Subscription-Key*.
 
-See [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys).
+See:
+
+- [Logging in to the portal](/docs/knowledge-base/portal#how-to-log-in)
+- [How to find the API keys](/docs/knowledge-base/portal#how-to-find-the-api-keys).
+
 
 ## Installation
+
+Make sure you have easy access to the API keys, by logging in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/) and find the correct API keys.
 
 ### Step 1 - Add the payment method
 
@@ -86,6 +93,10 @@ You can find your keys, as described in
 ### Step 5 - Activate Vipps payment
 
 ![Step 5](./docs/images/Vipps2Shopify5.png)
+
+### Step 6 - Test
+
+Do a few test orders against the production API keys to confirm that the integration is working without errors.
 
 
 ## Add branding to your store
