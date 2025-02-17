@@ -28,7 +28,7 @@ This will help you build trust in your store. Many merchants have requested this
 (e.g., product image, price details, shipping, tax, total price).
 This gives your customers a lot more information within the app.
 
-Get the *Companion app* from the [Shopify app store](https://apps.shopify.com/vipps-companion)
+Get the *Companion app* from the [Shopify app store](https://apps.shopify.com/vipps-companion).
 
 <Tabs className="custom-tabs"
 defaultValue="vipps"
