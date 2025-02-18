@@ -55,6 +55,7 @@ Alternatively, to add the Vipps or MobilePay logo in the footer, you'll can the 
 ```liquid
 {% assign enabled_payment_types = 'vipps,payment_2,payment_3' | remove: ' ' | split: ',' %}
 ```
+
 </div>
 </details>
 
@@ -64,7 +65,7 @@ Alternatively, to add the Vipps or MobilePay logo in the footer, you'll can the 
 
 ## The order that comes from Vipps MobilePay is labelled authorized, what does that mean?
 
-The order's status is *reserved* in Vipps. The amount is only reserved and not
+The order's status is "Reserved" in Vipps MobilePay. The amount is only reserved and not
 captured from the customers account. When the order is completed, you can capture
 the payment. You can either do this inside each order by clicking the button
 *capture*, or by marking more orders and choose the *Actions* dropdown, and then click *Capture payments*.
@@ -109,7 +110,7 @@ See:
 
 ## Can we use Express Checkout with Shopify?
 
-The Shopify module does not currently support express checkout. We try to use default platform features for our official modules and due to some limitations with the platform it is not possible to use express checkout with the default shipping alternatives available from the module. We are constantly working on improvements on the module and will add support as soon as it is flexible enough to implement.
+The Shopify module does not currently support express checkout. We try to use default platform features for our official modules and, due to some limitations with the platform, it is not possible to use express checkout with the default shipping alternatives available from the module. We will add support as soon as it is flexible enough to implement.
 
 
 ## What do the different order statuses in Shopify mean when combined with Vipps MobilePay?
@@ -121,29 +122,29 @@ In Shopify, you have two main statuses:
 
 ### Financial status
 
-There are multiple types available here, but the most common ones you might see is:
+There are multiple types available here, but the most common ones you might see are described here.
 
 #### Authorized
 
-With Vipps MobilePay, this means that the order is reserved, but no money have changed hands yet. The funds are reserved on the customers account, until you capture the order, and the funds will be deducted from the customers account, and you will receive it (minus fees).
+With Vipps MobilePay, the "Authorized" status means that the order is reserved, but no money has changed hands yet. The funds are reserved on the customers account until you capture the order. That is when the funds are deducted from the customers account and you will receive it (minus fees).
 
-All orders in authorized state should not be there for too long, because the reservations might expire if you don't capture them, typically within 7-14 days.
+All orders in authorized state should be resolved quickly, because the reservations might expire if you don't capture them, typically within 7-14 days.
 
 #### Pending
 
-With Vipps MobilePay, this is a rare status, and often indicate that something is wrong with your account. This may be related to your Vipps MobilePay account being set to do "Direct Capture", which is not supported by the Vipps MobilePay gateway in Shopify. You should double-check your account if you get a lot of orders in "Pending" state.
+With Vipps MobilePay, "Pending" is a rare status, and often indicates that something is wrong with your account. This may be related to your Vipps MobilePay account being set to do "Direct Capture", which is not supported by the Vipps MobilePay gateway in Shopify. You should double-check your account if you often get orders in "Pending" state.
 
 #### Paid
 
-When an order is successfully captured in Vipps MobilePay, it will be changed to the "Paid" state. This indicates that you will get the funds from the customer very soon. The order is "OK" and ready to be shipped.
+When an order is successfully captured in Vipps MobilePay, the status will be changed to "Paid". This indicates that you will get the funds from the customer very soon. The order is "OK" and ready to be shipped.
 
 #### Refunded / partially refunded
 
-The title tells most of it, but when an order gets the "refunded" status, you have successfully refunded the order in Vipps MobilePay, either fully or partially. Remember that all orders that is captured, are refunded, not cancelled.
+When an order gets the "refunded" status, you have successfully refunded the order in Vipps MobilePay, either fully or partially. Remember that all orders that are captured, can be refunded, not cancelled.
 
 #### Cancelled
 
-Orders that are not captured yet, will be cancelled if you choose to cancel them in Shopify Admin. If the order is captured (hence in "Paid" state), it will be refunded instead.
+Orders with the "Cancelled" state we cancelled before being captured. Orders that are not captured yet, will be cancelled if you choose to cancel them in Shopify Admin. If the order is captured (hence in "Paid" state), it will be refunded instead.
 
 ### Fulfillment status
 
@@ -153,7 +154,7 @@ These types are the most common:
 2. `Partially fulfilled`
 3. `Fulfilled`
 
-These indicate whether you have shipped the order or not. Vipps does not take part in these statuses other than the default mechanisms in Shopify Admin. These can be used as usual, and do not indicate any status of the Vipps payment. Only the Financial status tells the status of the Vipps order.
+These indicate whether you have shipped the order or not. Vipps MobilePay does not take part in these statuses other than the default mechanisms in Shopify Admin. These can be used as usual, and do not indicate any status of the payment. Only the Financial status tells the status of the order.
 
 ## Other frequently asked questions
 
