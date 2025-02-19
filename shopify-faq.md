@@ -9,40 +9,25 @@ END_METADATA -->
 
 # Frequently asked questions
 
-<!-- START_COMMENT -->
-## Table of contents
-
-- [In which countries can I use Vipps MobilePay?](#in-which-countries-can-i-use-vipps-mobilepay)
-- [The order that comes from Vipps MobilePay is labelled authorized, what does that mean?](#the-order-that-comes-from-vipps-mobilepay-is-labelled-authorized-what-does-that-mean)
-- [Customers are getting error messages when they are trying to check out](#customers-are-getting-error-messages-when-they-are-trying-to-check-out)
-- [I do not receive any Vipps or MobilePay orders?](#i-do-not-receive-any-vipps-or-mobilepay-orders)
-- [Can we use Express Checkout with Shopify?](#can-we-use-express-checkout-with-shopify)
-- [How can I get the Vipps or MobilePay payment logo in the footer?](#how-can-i-get-the-vipps-or-mobilepay-payment-logo-in-the-footer)
-- [What do the different order statuses in Shopify mean when combined with Vipps MobilePay](#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps-mobilepay)
-<!-- END_COMMENT -->
-
 ## In which countries can I use Vipps MobilePay?
 
-You can get paid by users who have Vipps in Norway, or who have MobilePay in Denmark or Finland.
+You can use Vipps and MobilePay brands in Norway, Denmark, and Finland.
 
 ## For how long is an order reserved?
 
-:::note
-Payments initiated in Finland and Denmark have only 14 days to be captured; while
-payments in Norway have 180 days.
-If the payments aren't captured within this time, they will be automatically cancelled.
+When a payment is completed with Vipps MobilePay, the money will be reserved.
+You get the money when the order is set to "Complete" or the money is captured manually.
 
-Payments can only be captured up to 14 days (MobilePay) or 180 days (Vipps) after reservation.
-See [Payment capture deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#payment-capture-deadlines).
-:::
-
-When a payment is completed with Vipps MobilePay, the money will be reserved, but only transferred to the merchant when the order is set to “Complete” or the money is captured manually. For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this; or to make an agreement with the customer to capture the money before this period is over. For Vipps, the period is 180 days. For payments made by credit card, the period can again be as short as 7 days.
+For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this;
+or to make an agreement with the customer to capture the money before this period is over.
+For Vipps, the period is 180 days. For payments made by credit card, the period can again be as short as 7 days.
+See [Payment capture deadlines](/docs/knowledge-base/reserve-and-capture/#payment-capture-deadlines).
 
 
 ## How can I get the Vipps or MobilePay payment logo in the footer?
 
-Because of a limitation with Shopify's Payments App API, which doesn't currently support adding payment method logos in the footer,
-you need the [Companion app](companion.md) to add the logos and icons.
+There is a limitation with Shopify's Payments App API, which doesn't currently support adding payment method logos in the footer.
+So, to get around this for adding logos and icons, you need the [Companion app](companion.md).
 
 This also lets you add more payment information into the app.
 
