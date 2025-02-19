@@ -44,10 +44,6 @@ Alternatively, to add the Vipps or MobilePay logo in the footer, you'll can the 
 </div>
 </details>
 
-
-
-
-
 ## The order that comes from Vipps MobilePay is labelled authorized, what does that mean?
 
 The order's status is "Reserved" in Vipps MobilePay. The amount is only reserved and not
@@ -60,11 +56,12 @@ product or service is provided to the customer. For more information,
 please see the Norwegian Consumer Authority's
 [Guidelines for the standard sales conditions for consumer purchases of goods over the internet](https://www.forbrukertilsynet.no/english/guidelines/guidelines-the-standard-sales-conditions-consumer-purchases-of-goods-the-internet).
 
-## Customers are getting error messages when they are trying to check out
+## How to fix problems with authentication
 
-Your API keys are most likely wrong. Double check that all of your keys
-(also merchant serial number) is correct and that it is production keys
-and not test keys.
+The most common problem is using API keys for the wrong environment.
+
+Double-check that you are using the correct production API keys (not test keys)
+and the correct production Merchant Serial Number.
 
 Remember that you have your own merchant serial number for your production
 keys and another merchant serial number from your test keys.
@@ -72,19 +69,17 @@ This is easy to miss.
 
 See:
 [Getting the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys/).
+
+## Customers are getting error messages when they are trying to check out
+
+See:
+[How to fix problems with authentication](#how-to-fix-problems-with-authentication).
+
 
 ## I do not receive any Vipps or MobilePay orders
 
-Your API keys are most likely wrong. Double check that all of your keys
-(also merchant serial number) is correct and that it is production keys
-and not test keys.
-
-Remember that you have your own merchant serial number for your production
-keys and another merchant serial number from your test keys.
-This is easy to miss.
-
 See:
-[Getting the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys/).
+[How to fix problems with authentication](#how-to-fix-problems-with-authentication).
 
 ## I get `Error 2734583247: Order is not reserved`
 
