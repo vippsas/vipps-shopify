@@ -75,7 +75,7 @@ Go to *Settings* in your Shopify store, then click *Payments*. Click *Add paymen
 
 ![Step 2](docs/images/2InstallVippsMobilePay.png)
 
-### Step 3 - Configurate your account and select payment product 
+### Step 3 - Configure your account and select payment product 
 
 ![Step 3](docs/images/3InstallVippsMobilePay.png)
 
