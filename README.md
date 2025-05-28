@@ -21,8 +21,6 @@ For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify
 
 Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
 
-Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps?locale).
-
 To add branding and order information, install the [Companion app](companion.md).
 
 ## Description
@@ -71,28 +69,26 @@ Make sure you have easy access to the API keys, by logging in to [portal.vippsmo
 
 Go to *Settings* in your Shopify store, then click *Payments*. Click *Add payment method*.
 
-![Step 1](./docs/images/Vipps2Shopify1.png)
+![Step 1](docs/images/1InstallVippsMobilePay.png)
 
-### Step 2 - Connect the account
+### Step 2 - Manage the account
 
-![Step 2](./docs/images/Vipps2Shopify2.png)
+![Step 2](docs/images/2InstallVippsMobilePay.png)
 
-### Step 3 - Install the app
+### Step 3 - Configurate your account and select payment product 
 
-Read the privacy policy and then install the app.
-
-![Step 3](./docs/images/Vipps2Shopify3.png)
+![Step 3](docs/images/3InstallVippsMobilePay.png)
 
 ### Step 4 - Fill in the API key information
 
 You can find your keys, as described in
 [API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys/).
 
-![Step 4](./docs/images/Vipps2Shopify4.png)
+![Step 4](docs/images/4InstallVippsMobilePay.png)
 
-### Step 5 - Activate Vipps payment
+### Step 5 - Activate Vipps MobilePay payment
 
-![Step 5](./docs/images/Vipps2Shopify5.png)
+![Step 5](docs/images/5InstallVippsMobilePay.png)
 
 ### Step 6 - Test
 
