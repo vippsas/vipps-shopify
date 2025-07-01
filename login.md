@@ -1,8 +1,8 @@
 <!-- START_METADATA
 ---
-title: Payments for Shopify
+title: Login for Shopify
 sidebar_position: 1
-description: Provide Vipps/MobilePay payments for Shopify.
+description: Enable your customers to log in securely using their Vipps or MobilePay account.
 pagination_next: null
 pagination_prev: null
 ---
