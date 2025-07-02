@@ -35,7 +35,7 @@ Let your customers sign up or log into your website or app using their existing 
 
 - Sign up to use [*Login*](https://vippsmobilepay.com/online/login).
 - After 1-2 days, you will get an email with login details to the business portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
-- You may need to configure your sales unit for using login (see [How to set up Login for your sales unit](https://developer.vippsmobilepay.com/docs/knowledge-base/portal/#login))
+- Configure your sales unit for using login (see [How to set up Login for your sales unit](https://developer.vippsmobilepay.com/docs/knowledge-base/portal/#login)).
 - Download and configure.
 
 For more details, see [Getting started](https://developer.vippsmobilepay.com/docs/getting-started/).
