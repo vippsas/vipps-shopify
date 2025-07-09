@@ -20,7 +20,6 @@ END_METADATA -->
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps-companion).
 For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
 
-
 Easily add Vipps and MobilePay branding to your store. Add badges on the product pages with drag-and-drop app blocks and add icons in the footer.
 This will help you build trust in your store. Many merchants have requested this feature, and now it's finally here.
 
@@ -30,6 +29,7 @@ This gives your customers a lot more information within the app.
 
 Get the *Companion app* from the [Shopify app store](https://apps.shopify.com/vipps-companion).
 
+<!-- START_HIDDEN_IN_GITHUB
 <Tabs className="custom-tabs"
 defaultValue="vipps"
 groupId="brand"
@@ -50,6 +50,19 @@ values={[
 
 </TabItem>
 </Tabs>
+END_HIDDEN_IN_GITHUB -->
+
+<!-- START_COMMENT -->
+Vipps:
+
+![Vipps badges](docs/images/companion-badges.png)
+
+![Vipps receipts](docs/images/receipt.png)
+
+MobilePay:
+
+![MobilePay badge](docs/images/mobilepay-badge.png)
+<!-- END_COMMENT -->
 
 ## Support
 
