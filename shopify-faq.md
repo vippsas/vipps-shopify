@@ -21,9 +21,8 @@ You get the money when the order is set to "Complete" or the money is captured m
 
 For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this;
 or to make an agreement with the customer to capture the money before this period is over.
-For Vipps, the period is 180 days. For payments made by credit card, the period can again be as short as 7 days.
+For Vipps, the period is 180 days. Payments made by credit card can have a reservation period as short as 7 days.
 See [Payment capture deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#payment-capture-deadlines).
-
 
 ## How can I get the Vipps or MobilePay payment logo in the footer?
 
@@ -32,18 +31,22 @@ So, to get around this for adding logos and icons, you need the [Companion app](
 
 This also lets you add more payment information into the app.
 
-
+<!-- START_HIDDEN_IN_GITHUB
 <details>
 <summary>Deprecated method</summary>
 <div>
+END_HIDDEN_IN_GITHUB -->
+
 Alternatively, to add the Vipps or MobilePay logo in the footer, you'll can the theme files by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
 
 ```liquid
 {% assign enabled_payment_types = 'vipps,payment_2,payment_3' | remove: ' ' | split: ',' %}
 ```
 
+<!-- START_HIDDEN_IN_GITHUB
 </div>
 </details>
+END_HIDDEN_IN_GITHUB -->
 
 ## The order that comes from Vipps MobilePay is labelled authorized, what does that mean?
 
@@ -76,7 +79,6 @@ See:
 See:
 [How to fix problems with authentication](#how-to-fix-problems-with-authentication).
 
-
 ## I do not receive any Vipps or MobilePay orders
 
 See:
@@ -93,7 +95,6 @@ See:
 
 The Shopify module does not currently support express checkout. We try to use default platform features for our official modules and, due to some limitations with the platform, it is not possible to use express checkout with the default shipping alternatives available from the module. We will add support as soon as it is flexible enough to implement.
 
-
 ## What do the different order statuses in Shopify mean when combined with Vipps MobilePay?
 
 In Shopify, you have two main statuses:
@@ -107,9 +108,9 @@ There are multiple types available here, but the most common ones you might see 
 
 #### Authorized
 
-With Vipps MobilePay, the "Authorized" status means that the order is reserved, but no money has changed hands yet. The funds are reserved on the customers account until you capture the order. That is when the funds are deducted from the customers account and you will receive it (minus fees).
+With Vipps MobilePay, the "Authorized" status means that the order is reserved, but no money has changed hands yet. The funds are reserved on the customers account until you capture the order. That is when the funds are deducted from the customers account, and you will receive it (minus fees).
 
-All orders in authorized state should be resolved quickly, because the reservations might expire if you don't capture them, typically within 7-14 days.
+All orders in authorized state should be resolved quickly, because the reservations might expire if you don't capture them, typically within 7–14 days.
 
 #### Pending
 

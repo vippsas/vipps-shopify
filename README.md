@@ -44,7 +44,7 @@ make *Express Checkout* possible, we will add this functionality.
 ## How to get started
 
 - Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration) or [*Checkout*](https://vippsmobilepay.com/online/checkout).
-- After 1-2 days, you will get an email with login details to the business portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
+- After 1–2 days, you will get an email with login details to the business portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
 For more details, see [Getting started](https://developer.vippsmobilepay.com/docs/getting-started/).
@@ -60,7 +60,6 @@ See:
 - [Logging in to the portal](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-log-in)
 - [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys).
 
-
 ## Installation
 
 Make sure you have easy access to the API keys, by logging in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/) and find the correct API keys.
@@ -75,7 +74,7 @@ Go to *Settings* in your Shopify store, then click *Payments*. Click *Add paymen
 
 ![Step 2](docs/images/2InstallVippsMobilePay.png)
 
-### Step 3 - Configure your account and select payment product 
+### Step 3 - Configure your account and select payment product
 
 ![Step 3](docs/images/3InstallVippsMobilePay.png)
 
@@ -94,7 +93,6 @@ You can find your keys, as described in
 
 Do a few test orders against the production API keys to confirm that the integration is working without errors.
 
-
 ## Add branding to your store
 
 To add Vipps or MobilePay logos and icons to your store, get the [Companion app](companion.md).
@@ -109,11 +107,10 @@ For issues with your *Vipps/MobilePay for Shopify* installation, [contact us](ht
 
 For business-related issues, such as a deactivated sales unit, contact [Vipps MobilePay business support](https://vippsmobilepay.com/info/help).
 
-
 ## FAQ
 
-* [Shopify FAQ](shopify-faq.md)
-* [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
+- [Shopify FAQ](shopify-faq.md)
+- [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base)
 
 ## Support
 
