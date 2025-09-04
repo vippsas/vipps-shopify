@@ -22,7 +22,7 @@ You get the money when the order is set to "Complete" or the money is captured m
 For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this;
 or to make an agreement with the customer to capture the money before this period is over.
 For Vipps, the period is 180 days. Payments made by credit card can have a reservation period as short as 7 days.
-See [Payment capture deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#payment-capture-deadlines).
+See [Capture deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#capture-deadlines).
 
 ## How can I get the Vipps or MobilePay payment logo in the footer?
 
