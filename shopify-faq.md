@@ -141,4 +141,4 @@ These indicate whether you have shipped the order or not. Vipps MobilePay does n
 ## Other frequently asked questions
 
 See:
-[Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#what-is-the-difference-between-reserve-capture-and-direct-capture)
+[Knowledge base: Reserve capture vs. direct capture](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#reserve-capture-vs-direct-capture)
