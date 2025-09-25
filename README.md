@@ -105,7 +105,7 @@ See [Shopify Order statuses with Vipps MobilePay](shopify-faq.md#what-do-the-dif
 
 For issues with your *Vipps/MobilePay for Shopify* installation, [contact us](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).
 
-For business-related issues, such as a deactivated sales unit, contact [Vipps MobilePay business support](https://vippsmobilepay.com/info/help).
+For business-related issues, such as a deactivated sales unit, contact [Vipps MobilePay business support](https://help.vippsmobilepay.com/).
 
 ## FAQ
 
