@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
 title: Vipps/MobilePay Shopify Plugins FAQ
-description: Frequently asked questions for the Shopify plugins.
+description: Common questions and solutions for Vipps/MobilePay Shopify payment integration.
 pagination_next: null
 pagination_prev: null
 ---

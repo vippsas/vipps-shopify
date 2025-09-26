@@ -2,7 +2,7 @@
 ---
 title: Vipps/MobilePay Companion app for Shopify
 sidebar_position: 1
-description: Add Vipps/MobilePay branding to your Shopify store.
+description: Add trusted payment branding and enhanced order details to your Shopify store.
 pagination_next: null
 pagination_prev: null
 ---

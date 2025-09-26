@@ -2,7 +2,7 @@
 ---
 title: Payments for Shopify
 sidebar_position: 1
-description: Provide Vipps/MobilePay payments for Shopify.
+description: Enable fast, secure Nordic mobile payments with Vipps/MobilePay for Shopify checkout.
 pagination_next: null
 pagination_prev: null
 ---

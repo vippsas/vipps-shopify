@@ -2,7 +2,7 @@
 ---
 title: Login for Shopify
 sidebar_position: 1
-description: Enable your customers to log in securely using their Vipps or MobilePay account.
+description: Secure one-tap customer authentication with Vipps/MobilePay Login for Shopify stores.
 pagination_next: null
 pagination_prev: null
 ---
