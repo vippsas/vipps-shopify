@@ -47,9 +47,7 @@ make *Express Checkout* possible, we will add this functionality.
 - After 1–2 days, you will get an email with login details to the business portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
-For more details, see [Getting started](https://developer.vippsmobilepay.com/docs/getting-started/).
-
-## How to get account keys from the business portal
+## How to get account keys
 
 1. Sign in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
 2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
@@ -57,8 +55,8 @@ For more details, see [Getting started](https://developer.vippsmobilepay.com/doc
 
 See:
 
-- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-log-in)
-- [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys).
+- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#log-in)
+- [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys)
 
 ## Installation
 

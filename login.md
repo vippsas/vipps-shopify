@@ -47,8 +47,8 @@ For more details, see [Getting started](https://developer.vippsmobilepay.com/doc
 
 See:
 
-* [Logging in to the portal](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-log-in)
-* [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys).
+* [Logging in to the portal](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#log-in)
+* [How to find the API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/portal#how-to-find-the-api-keys)
 * [How to set up Login for your sales unit](https://developer.vippsmobilepay.com/docs/knowledge-base/portal/#login)
 
 <!-- START_COMMENT -->
