@@ -12,12 +12,23 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-*This plugin is built and maintained by [Crude](https://crude.no/).
+*This plugin is built and maintained by [Crude](https://crude.no/)
+and can be downloaded from the [Shopify App Store](https://apps.shopify.com/vipps-mobilepay-login).
 For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/). 💥
 <!-- END_COMMENT -->
+
+
+<div className="text-center my-8">
+<a
+href="https://apps.shopify.com/vipps-mobilepay-login"
+target="_blank"
+rel="noopener noreferrer"
+className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold text-base px-6  py-6 rounded-lg no-underline shadow-md transition-colors duration-200"
+>📱 Download from Shopify App Store</a>
+</div>
 
 ## Description
 
@@ -29,6 +40,8 @@ Let your customers sign up or log into your website or app using their existing 
 * Gain access to pre-validated user data, ensuring accurate and reliable information for your business.
 * Integrate the login button into your online store seamlessly with the Theme Editor.
 * Customize the login button to meet your brand’s requirements through intuitive drag-and-drop tools or by applying custom CSS.
+
+
 
 ## How to get started
 

@@ -12,7 +12,8 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-*This plugin is built and maintained by [Crude](https://crude.no/).
+*This plugin is built and maintained by [Crude](https://crude.no/)
+and can be downloaded from the [Shopify App Store](https://apps.shopify.com/vipps).
 For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
 
 <!-- START_COMMENT -->
@@ -21,7 +22,15 @@ For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify
 
 Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
 
-To add branding and order information, install the [Companion app](companion.md).
+<div className="text-center my-8">
+<a
+href="https://apps.shopify.com/vipps"
+target="_blank"
+rel="noopener noreferrer"
+className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold text-base px-6  py-6 rounded-lg no-underline shadow-md transition-colors duration-200"
+>📱 Download from Shopify App Store</a>
+</div>
+
 
 ## Description
 
@@ -33,11 +42,23 @@ Increase your conversion rate by letting your customers pay with a fast, secure 
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
+:::tip Configure your online payment solution
+This plugin can be used to configure either:
+
+- **Online payments** - Accept Vipps/MobilePay payments on your existing checkout flow
+- **Complete checkout solution** - Use Vipps/MobilePay as your primary checkout method
+
+Both solutions provide seamless integration with Shopify's payment processing and order management.
+:::
+
+
+To add branding and order information, install the [Companion app](companion.md).
+
 ## Payment
 
 When you enable this plugin, your customers will be able to choose Vipps or MobilePay as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps or MobilePay, the customer fills in the contact information and is then asked to enter the phone number in the Vipps/MobilePay app. Then the customer confirms the payment in the Vipps/MobilePay app. The order is now completed and are now stored in your Shopify store.
 
-**Please note:** We do not have a solution for *Express Checkout* in Shopify.
+**Please note:** We don't have a solution for *Express Checkout* in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
 make *Express Checkout* possible, we will add this functionality.
 
