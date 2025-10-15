@@ -20,14 +20,13 @@ For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/). 💥
 <!-- END_COMMENT -->
 
-
 <div className="text-center my-8">
 <a
 href="https://apps.shopify.com/vipps-mobilepay-login"
 target="_blank"
 rel="noopener noreferrer"
 className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold text-base px-6  py-6 rounded-lg no-underline shadow-md transition-colors duration-200"
->📱 Download from Shopify App Store</a>
+><span aria-hidden="true">📱</span> Download from Shopify App Store</a>
 </div>
 
 ## Description
@@ -40,8 +39,6 @@ Let your customers sign up or log into your website or app using their existing 
 * Gain access to pre-validated user data, ensuring accurate and reliable information for your business.
 * Integrate the login button into your online store seamlessly with the Theme Editor.
 * Customize the login button to meet your brand’s requirements through intuitive drag-and-drop tools or by applying custom CSS.
-
-
 
 ## How to get started
 

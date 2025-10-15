@@ -28,9 +28,8 @@ href="https://apps.shopify.com/vipps"
 target="_blank"
 rel="noopener noreferrer"
 className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold text-base px-6  py-6 rounded-lg no-underline shadow-md transition-colors duration-200"
->📱 Download from Shopify App Store</a>
+><span aria-hidden="true">📱</span> Download from Shopify App Store</a>
 </div>
-
 
 ## Description
 
@@ -50,7 +49,6 @@ This plugin can be used to configure either:
 
 Both solutions provide seamless integration with Shopify's payment processing and order management.
 :::
-
 
 To add branding and order information, install the [Companion app](companion.md).
 

@@ -20,14 +20,12 @@ END_METADATA -->
 and can be downloaded from the [Shopify app store](https://apps.shopify.com/vipps-companion).
 For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
 
-
 <div className="text-center my-8"><a
 href="https://apps.shopify.com/vipps-companion"
 target="_blank"
 rel="noopener noreferrer"
 className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold text-base px-6  py-6 rounded-lg no-underline shadow-md transition-colors duration-200"
->📱 Download from Shopify App Store</a></div>
-
+><span aria-hidden="true">📱</span> Download from Shopify App Store</a></div>
 
 Easily add Vipps and MobilePay branding to your store. Add badges on the product pages with drag-and-drop app blocks and add icons in the footer.
 This will help you build trust in your store. Many merchants have requested this feature, and now it's finally here.
@@ -35,9 +33,6 @@ This will help you build trust in your store. Many merchants have requested this
 *Companion app for Shopify* also supports synchronizing relevant order data with the Vipps or MobilePay app
 (e.g., product image, price details, shipping, tax, total price).
 This gives your customers a lot more information within the app.
-
-
-
 
 <!-- START_HIDDEN_IN_GITHUB
 <Tabs className="custom-tabs"
