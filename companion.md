@@ -35,7 +35,7 @@ This will help you build trust in your store. Many merchants have requested this
 This gives your customers a lot more information within the app.
 
 <!-- START_HIDDEN_IN_GITHUB
-<Tabs className="custom-tabs"
+<Tabs
 defaultValue="vipps"
 groupId="brand"
 values={[
