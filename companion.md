@@ -5,6 +5,7 @@ sidebar_position: 1
 description: Add trusted payment branding and enhanced order details to your Shopify store.
 pagination_next: null
 pagination_prev: null
+section: Plugins
 ---
 
 import Tabs from '@theme/Tabs';

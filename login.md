@@ -5,6 +5,7 @@ sidebar_position: 1
 description: Secure one-tap customer authentication with Vipps/MobilePay Login for Shopify stores.
 pagination_next: null
 pagination_prev: null
+section: Plugins
 ---
 END_METADATA -->
 
