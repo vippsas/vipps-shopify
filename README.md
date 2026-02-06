@@ -9,6 +9,14 @@ section: Plugins
 ---
 END_METADATA -->
 
+
+
+<!-- Documentation for this plugin is maintained in the vipps-developer-docs repository. -->
+
+
+
+
+
 # Payments for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
