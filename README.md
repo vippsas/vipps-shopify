@@ -64,7 +64,7 @@ make *Express Checkout* possible, we will add this functionality.
 
 ## How to get started
 
-- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration) or [*Checkout*](https://vippsmobilepay.com/online/checkout).
+- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration).
 - After 1–2 days, you will get an email with login details to the business portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
