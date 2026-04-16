@@ -43,7 +43,7 @@ Increase your conversion rate by letting your customers pay with a fast, secure 
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-:::tip Configure your online payment solution
+:::tip[Configure your online payment solution]
 This plugin can be used to configure either:
 
 - **Online payments** - Accept Vipps/MobilePay payments on your existing checkout flow
