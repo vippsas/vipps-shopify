@@ -59,7 +59,7 @@ the payment. You can either do this inside each order by clicking the button
 According to Norwegian regulations you should not capture a payment until the
 product or service is provided to the customer. For more information,
 please see the Norwegian Consumer Authority's
-[Guidelines for the standard sales conditions for consumer purchases of goods over the internet](https://www.forbrukertilsynet.no/english/guidelines/guidelines-the-standard-sales-conditions-consumer-purchases-of-goods-the-internet).
+[Guidelines for the standard sales conditions for consumer purchases of goods over the internet (only available in Norwegian)](https://www.forbrukertilsynet.no/lov-og-rett/veiledninger-og-retningslinjer/veiledning-standard-salgsbetingelser-forbrukerkjop-varer-internett).
 
 ## How to fix problems with authentication
 
