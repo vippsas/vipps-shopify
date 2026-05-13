@@ -87,26 +87,26 @@ Make sure you have easy access to the API keys, by logging in to [portal.vippsmo
 
 Go to *Settings* in your Shopify store, then click *Payments*. Click *Add payment method*.
 
-![Step 1](docs/images/1InstallVippsMobilePay.png)
+![Shopify settings screen showing payment method search for Vipps/MobilePay integration](docs/images/1InstallVippsMobilePay.png)
 
 ### Step 2 - Manage the account
 
-![Step 2](docs/images/2InstallVippsMobilePay.png)
+![Installed Vipps/MobilePay integration page with Manage Account button highlighted](docs/images/2InstallVippsMobilePay.png)
 
 ### Step 3 - Configure your account and select payment product
 
-![Step 3](docs/images/3InstallVippsMobilePay.png)
+![Vipps/MobilePay configuration screen with language and payment product selection options](docs/images/3InstallVippsMobilePay.png)
 
 ### Step 4 - Fill in the API key information
 
 You can find your keys, as described in
 [API keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys/).
 
-![Step 4](docs/images/4InstallVippsMobilePay.png)
+![API keys configuration form showing fields for MSN, Client ID, Client Secret, and subscription key](docs/images/4InstallVippsMobilePay.png)
 
 ### Step 5 - Activate Vipps MobilePay payment
 
-![Step 5](docs/images/5InstallVippsMobilePay.png)
+![Activation screen with Vipps and MobilePay toggle switches and Activate button](docs/images/5InstallVippsMobilePay.png)
 
 ### Step 6 - Test
 
