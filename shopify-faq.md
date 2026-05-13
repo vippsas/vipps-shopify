@@ -92,9 +92,9 @@ This is often caused by having "Direct capture" enabled in your Vipps or MobileP
 See:
 [Reserve and capture](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture).
 
-## Can we use Express Checkout with Shopify?
+## Can we use Express with Shopify?
 
-The Shopify module does not currently support express checkout. We try to use default platform features for our official modules and, due to some limitations with the platform, it is not possible to use express checkout with the default shipping alternatives available from the module. We will add support as soon as it is flexible enough to implement.
+The Shopify module does not currently support Express. We try to use default platform features for our official modules and, due to some limitations with the platform, it is not possible to use Express with the default shipping alternatives available from the module. We will add support as soon as it is flexible enough to implement.
 
 ## What do the different order statuses in Shopify mean when combined with Vipps MobilePay?
 
