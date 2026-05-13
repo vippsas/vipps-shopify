@@ -38,7 +38,7 @@ This also lets you add more payment information into the app.
 <div>
 END_HIDDEN_IN_GITHUB -->
 
-Alternatively, to add the Vipps or MobilePay logo in the footer, you'll can the theme files by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
+Alternatively, to add the Vipps or MobilePay logo in the footer, you can edit the theme files by adding/editing a line of code in your footer or where you'll want the logos to appear. An example would be, but needs testing in your shop before using:
 
 ```liquid
 {% assign enabled_payment_types = 'vipps,payment_2,payment_3' | remove: ' ' | split: ',' %}
@@ -127,7 +127,7 @@ When an order gets the "refunded" status, you have successfully refunded the ord
 
 #### Cancelled
 
-Orders with the "Cancelled" state we cancelled before being captured. Orders that are not captured yet, will be cancelled if you choose to cancel them in Shopify Admin. If the order is captured (hence in "Paid" state), it will be refunded instead.
+Orders with the "Cancelled" state were cancelled before being captured. Orders that are not captured yet, will be cancelled if you choose to cancel them in Shopify Admin. If the order is captured (hence in "Paid" state), it will be refunded instead.
 
 ### Fulfillment status
 
