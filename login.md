@@ -32,9 +32,9 @@ className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold t
 
 ## Description
 
-This is the official *Vipps/MobilePay Payment* plugin for Shopify.
+This is the official *Vipps/MobilePay Login* plugin for Shopify.
 
-Let your customers sign up or log into your website or app using their existing Vipps or MobilePay account.
+Let your customers sign up or log in to your website or app using their existing Vipps or MobilePay account.
 
 * Enable your customers to log in securely using their Vipps or MobilePay account, enhancing convenience and trust.
 * Gain access to pre-validated user data, ensuring accurate and reliable information for your business.

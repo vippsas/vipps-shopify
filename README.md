@@ -56,7 +56,7 @@ To add branding and order information, install the [Companion app](companion.md)
 
 ## Payment
 
-When you enable this plugin, your customers will be able to choose Vipps or MobilePay as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps or MobilePay, they fill in the contact information and are asked to enter the phone number in the Vipps/MobilePay app. Then, they confirm the payment in the Vipps/MobilePay app. The order is now completed and is stored in your Shopify store.
+When you enable this plugin, your customers will be able to choose Vipps or MobilePay as a payment method directly in the checkout. There is no need to go via a third-party payment method. If your customer chooses Vipps or MobilePay, they fill in the contact information and are asked to enter the phone number in the Vipps/MobilePay app. Then, they confirm the payment in the Vipps/MobilePay app. The order is now completed and is stored in your Shopify store.
 
 **Please note:** We don't have a solution for *Express* in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
@@ -81,7 +81,7 @@ See:
 
 ## Installation
 
-Make sure you have easy access to the API keys, by logging in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/) and find the correct API keys.
+Make sure you have easy access to the API keys by logging in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/) and finding the correct API keys.
 
 ### Step 1 - Add the payment method
 

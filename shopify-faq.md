@@ -20,7 +20,7 @@ For details, see [Offering Vipps MobilePay in the Nordics](https://developer.vip
 When a payment is completed with Vipps MobilePay, the money will be reserved.
 You get the money when the order is set to "Complete" or the money is captured manually.
 
-For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this;
+For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this,
 or to make an agreement with the customer to capture the money before this period is over.
 For Vipps, the period is 180 days. Payments made by credit card can have a reservation period as short as 7 days.
 See [Capture attempt deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#capture-attempt-deadlines).
@@ -52,9 +52,9 @@ END_HIDDEN_IN_GITHUB -->
 ## The order that comes from Vipps MobilePay is labelled authorized, what does that mean?
 
 The order's status is "Reserved" in Vipps MobilePay. The amount is only reserved and not
-captured from the customers account. When the order is completed, you can capture
+captured from the customer's account. When the order is completed, you can capture
 the payment. You can either do this inside each order by clicking the button
-*capture*, or by marking more orders and choose the *Actions* dropdown, and then click *Capture payments*.
+*capture*, or by marking more orders, choosing the *Actions* dropdown, and then clicking *Capture payments*.
 
 According to Norwegian regulations you should not capture a payment until the
 product or service is provided to the customer. For more information,
@@ -109,7 +109,7 @@ There are multiple types available here, but the most common ones you might see 
 
 #### Authorized
 
-With Vipps MobilePay, the "Authorized" status means that the order is reserved, but no money has changed hands yet. The funds are reserved on the customers account until you capture the order. That is when the funds are deducted from the customers account, and you will receive it (minus fees).
+With Vipps MobilePay, the "Authorized" status means that the order is reserved, but no money has changed hands yet. The funds are reserved on the customer's account until you capture the order. That is when the funds are deducted from the customer's account, and you will receive it (minus fees).
 
 All orders in authorized state should be resolved quickly, because the reservations might expire if you don't capture them, typically within 7–14 days.
 
@@ -123,11 +123,11 @@ When an order is successfully captured in Vipps MobilePay, the status will be ch
 
 #### Refunded / partially refunded
 
-When an order gets the "refunded" status, you have successfully refunded the order in Vipps MobilePay, either fully or partially. Remember that all orders that are captured, can be refunded, not cancelled.
+When an order gets the "refunded" status, you have successfully refunded the order in Vipps MobilePay, either fully or partially. Remember that all orders that are captured can be refunded, not cancelled.
 
 #### Cancelled
 
-Orders with the "Cancelled" state were cancelled before being captured. Orders that are not captured yet, will be cancelled if you choose to cancel them in Shopify Admin. If the order is captured (hence in "Paid" state), it will be refunded instead.
+Orders with the "Cancelled" state were cancelled before being captured. Orders that are not captured yet will be cancelled if you choose to cancel them in Shopify Admin. If the order is captured (hence in "Paid" state), it will be refunded instead.
 
 ### Fulfillment status
 
