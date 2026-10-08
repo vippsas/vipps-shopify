@@ -37,7 +37,7 @@ className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold t
 
 This is the official *Vipps/MobilePay Payment* plugin for Shopify. Let your customers choose Vipps/MobilePay directly in the checkout.
 
-Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
+One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
 
 Increase your conversion rate by letting your customers pay with a fast, secure and convenient payment method. Vipps MobilePay allows users to make quick and easy payments using their mobile phone, without the need for entering credit card details or other sensitive information.
 

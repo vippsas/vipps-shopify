@@ -12,7 +12,7 @@ END_METADATA -->
 
 ## In which countries can I use Vipps MobilePay?
 
-You can use Vipps and MobilePay brands in Norway, Denmark, Finland, and Sweden.
+You can get paid by Vipps MobilePay users in Denmark, Finland, Greenland, Norway, and Sweden.
 For details, see [Offering Vipps MobilePay in the Nordics](https://developer.vippsmobilepay.com/docs/knowledge-base/across-borders/).
 
 ## For how long is an order reserved?
@@ -20,9 +20,9 @@ For details, see [Offering Vipps MobilePay in the Nordics](https://developer.vip
 When a payment is completed with Vipps MobilePay, the money will be reserved.
 You get the money when the order is set to "Complete" or the money is captured manually.
 
-For MobilePay, this reservation period is 14 days, so you will need to ship and fulfill orders before this,
+In the Danish and Finnish markets, this reservation period is 14 days, so you will need to ship and fulfill orders before this,
 or to make an agreement with the customer to capture the money before this period is over.
-For Vipps, the period is 180 days. Payments made by credit card can have a reservation period as short as 7 days.
+In the Norwegian market, the period is 180 days. Payments made by credit card can have a reservation period as short as 7 days.
 See [Capture attempt deadlines](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#capture-attempt-deadlines).
 
 ## How can I get the Vipps or MobilePay payment logo in the footer?
